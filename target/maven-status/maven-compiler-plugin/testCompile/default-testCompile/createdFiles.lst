@@ -1,0 +1,4 @@
+com/selimhorri/app/integration/FavouriteUserIntegrationTest.class
+com/selimhorri/app/integration/FavouriteProductIntegrationTest.class
+com/selimhorri/app/FavouriteServiceApplicationTests.class
+com/selimhorri/app/service/FavouriteServiceImplTest.class
