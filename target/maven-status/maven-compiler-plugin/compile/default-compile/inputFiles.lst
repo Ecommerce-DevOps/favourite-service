@@ -1,19 +1,19 @@
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/exception/ApiExceptionHandler.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/service/FavouriteService.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/dto/ProductDto.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/config/client/ClientConfig.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/domain/id/FavouriteId.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/resource/FavouriteResource.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/domain/Favourite.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/dto/FavouriteDto.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/exception/wrapper/FavouriteNotFoundException.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/constant/AppConstant.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/repository/FavouriteRepository.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/helper/FavouriteMappingHelper.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/dto/response/collection/DtoCollectionResponse.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/FavouriteServiceApplication.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/exception/payload/ExceptionMsg.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/config/mapper/MapperConfig.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/dto/UserDto.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/domain/AbstractMappedEntity.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/favourite-service/src/main/java/com/selimhorri/app/service/impl/FavouriteServiceImpl.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/config/mapper/MapperConfig.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/dto/response/collection/DtoCollectionResponse.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/exception/payload/ExceptionMsg.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/domain/Favourite.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/exception/ApiExceptionHandler.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/dto/FavouriteDto.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/dto/ProductDto.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/constant/AppConstant.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/FavouriteServiceApplication.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/helper/FavouriteMappingHelper.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/service/impl/FavouriteServiceImpl.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/repository/FavouriteRepository.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/config/client/ClientConfig.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/resource/FavouriteResource.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/domain/id/FavouriteId.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/exception/wrapper/FavouriteNotFoundException.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/service/FavouriteService.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/domain/AbstractMappedEntity.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/favourite-service/src/main/java/com/selimhorri/app/dto/UserDto.java
