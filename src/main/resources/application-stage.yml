@@ -1,12 +1,5 @@
-
 server:
   port: 8300
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
 
 spring:
   datasource:
@@ -22,7 +15,7 @@ spring:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
         use_sql_comments: true
         format_sql: true
-
+        
 logging:
   file:
     name: src/main/resources/script/stage_log.log
@@ -41,3 +34,18 @@ logging:
             jpa: DEBUG
             orm: DEBUG
 
+# ----------------------------------------------------
+# ACTUATOR + PROMETHEUS CONFIG
+# ----------------------------------------------------
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus   
+  endpoint:
+    health:
+      show-details: always                # Grafana necesita detalles
+  metrics:
+    export:
+      prometheus:
+        enabled: true                     #Habilita /actuator/prometheus
